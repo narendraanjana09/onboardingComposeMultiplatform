@@ -1,3 +1,12 @@
+# OnBoarding Screen with Compose Multiplatform
+
+## Screen Recording
+
+
+https://github.com/narendraanjana09/onboardingComposeMultiplatform/assets/60137237/27d47d6b-e7de-4b5b-9b6d-4d0effc5a740
+
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
